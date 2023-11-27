@@ -1,5 +1,4 @@
-<<<<<<< Updated upstream
-Christian Núñez Duqu
-=======
-Ignacio Zaldo González
->>>>>>> Stashed changes
+Aitor Blanco Fernández
+Daniel Hermelo Puente
+Ignacio Zaldo González 
+Christian Núñez Duque
