@@ -26,11 +26,11 @@ Christian Núñez Duque
   </p>
 </details>
 
-## ¿Qué hace el proyecto?
+# ¿Qué hace el proyecto?
 
-## ¿Porqué el proyecto es util?
+# ¿Porqué el proyecto es util?
 
-## ¿Cómo pueden comenzar los usuarios con el proyecto?
+# ¿Cómo pueden comenzar los usuarios con el proyecto?
 
 1. **Acceso a la página web:**
    - Los usuarios pueden iniciar su experiencia entrando a la web de la marca de ropa o a través de enlaces compartidos en redes sociales, anuncios publicitarios, correos electrónicos promocionales, etc.
@@ -49,4 +49,3 @@ Christian Núñez Duque
 
 6. **Proceso de compra:**
    - Una vez que los productos deseados estén en el carrito, los usuarios pueden proceder al proceso de compra, donde ingresarán la información de envío, seleccionarán el método de pago y finalizarán la transacción.
->>>>>>> Stashed changes
