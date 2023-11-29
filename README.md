@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 Aitor Blanco Fernández
 Daniel Hermelo Puente
 Ignacio Zaldo González 
@@ -29,3 +30,26 @@ Christian Núñez Duque
 
 ## ¿Porqué el proyecto es util?
 
+=======
+Christian Núñez Duque
+
+# ¿Cómo pueden comenzar los usuarios con el proyecto?
+
+1. **Acceso a la página web:**
+   - Los usuarios pueden iniciar su experiencia entrando a la web de la marca de ropa o a través de enlaces compartidos en redes sociales, anuncios publicitarios, correos electrónicos promocionales, etc.
+
+2. **Exploración inicial:**
+   - En la página de inicio, los usuarios pueden empezar a navegar por la página de inicio para ver las últimas colecciones, promociones destacadas o simplemente explorar las secciones principales.
+
+3. **Búsqueda de productos:**
+   - Los usuarios pueden explorar las diferentes categorías de productos disponibles, ya sea por género, tipo de prenda, temporada, etc. También pueden filtrar productos usando esos criterios.
+
+4. **Añadir al carrito o lista de deseos:**
+   - Los usuarios pueden agregar los productos que deseen comprar a su carrito de compras. Esto les permite recopilar los elementos que desean comprar.
+
+5. **Registro o inicio de sesión:**
+   - Pueden registrarse para crear una cuenta o iniciar sesión si ya la tienen. Esto les permitirá realizar el proceso de compra, guardar la información de envío, realizar un seguimiento de pedidos...
+
+6. **Proceso de compra:**
+   - Una vez que los productos deseados estén en el carrito, los usuarios pueden proceder al proceso de compra, donde ingresarán la información de envío, seleccionarán el método de pago y finalizarán la transacción.
+>>>>>>> Stashed changes
