@@ -1,5 +1,15 @@
 Ignacio Zaldo González 
 
+# Gestión de Proyecto: Simulación una planificación ágil de un proyecto software.
+
+Este repositorio tiene como objetivo la simulación de un proyecto software usando metodologías agiles utilizando herramientas como Github y Jira.
+
+
+Los enlaces correspondientes a los repositorios de Jira y Github son los siguientes:
+
+- [Github](https://github.com/cnunez1/gespro-lunes-830)
+- [Jira](https://equipogespro.atlassian.net/jira/software/projects/PRAC/boards/2)
+
 
 <h1>Pasos realizados hasta el momento</h1>
 <details> 
