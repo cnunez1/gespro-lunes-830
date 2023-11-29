@@ -1,5 +1,8 @@
 
 Daniel Hermelo Puente
-Ignacio Zaldo González 
-Christian Núñez Duqu
+
+
+## ¿Qué hace el proyecto?
+
+## ¿Porqué el proyecto es util?
 
