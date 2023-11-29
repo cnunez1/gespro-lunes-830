@@ -18,4 +18,12 @@ Christian Núñez Duque
   </p>
 </details>
 
+<details> 
+  <summary><h2>Tercer paso, historias de usuario:</h2></summary>
+  <p>
+   <a href="https://miro.com/app/board/uXjVNUnKKi0=/" target="_blank" rel="noreferrer"> <img src="https://github.com/cnunez1/gespro-lunes-830/assets/150005496/e7ebefb5-13b9-497b-8a2e-a4e311de9233" alt="2" width="900" height="500"/> </a>
+  </p>
+</details>
+
+
 
