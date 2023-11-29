@@ -30,10 +30,7 @@ Christian Núñez Duque
 
 ## ¿Porqué el proyecto es util?
 
-=======
-Christian Núñez Duque
-
-# ¿Cómo pueden comenzar los usuarios con el proyecto?
+## ¿Cómo pueden comenzar los usuarios con el proyecto?
 
 1. **Acceso a la página web:**
    - Los usuarios pueden iniciar su experiencia entrando a la web de la marca de ropa o a través de enlaces compartidos en redes sociales, anuncios publicitarios, correos electrónicos promocionales, etc.
