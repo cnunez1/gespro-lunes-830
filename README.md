@@ -25,5 +25,7 @@ Christian Núñez Duque
   </p>
 </details>
 
+## ¿Qué hace el proyecto?
 
+## ¿Porqué el proyecto es util?
 
