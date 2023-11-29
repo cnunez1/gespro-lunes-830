@@ -1,12 +1,6 @@
-Daniel Hermelo Puente
-Ignacio Zaldo González 
-Christian Núñez Duque
-Aitor Blanco Fernandez
-
 # Gestión de Proyecto: Simulación una planificación ágil de un proyecto software.
 
 Este repositorio tiene como objetivo la simulación de un proyecto software usando metodologías agiles utilizando herramientas como Github y Jira.
-
 
 Los enlaces correspondientes a los repositorios de Jira y Github son los siguientes:
 
@@ -14,40 +8,61 @@ Los enlaces correspondientes a los repositorios de Jira y Github son los siguien
 - [Jira](https://equipogespro.atlassian.net/jira/software/projects/PRAC/boards/2)
 
 
+# Autores:
+
+- [Daniel Hermelo Puente](https://github.com/DanieHermelo)
+- [Ignacio Zaldo González](https://github.com/3Nacho)
+- [Christian Núñez Duque](https://github.com/cnunez1)
+- [Aitor Blanco Fernández](https://github.com/AitorBlanco03)
+
 <h1>Pasos realizados hasta el momento</h1>
-<details> 
-  <summary><h2>1️⃣ Primer paso, elección de proyecto:</h2></summary>
-  <p>
-   <a href="https://miro.com/app/board/uXjVNUnKKi0=/" target="_blank" rel="noreferrer"> <img src="https://github.com/cnunez1/gespro-lunes-830/assets/150005496/ac86dd65-ce79-4b18-84af-20a964f5d694" alt="1" width="1000" height="500"/> </a>
-  </p>
-</details>
 
 <details> 
+  <summary><h2>1️⃣ Primer paso, elección de proyecto:</h2></summary>
+  <div>
+    <p>Antes de iniciar la planificación tuvimos que decidir el proyecto a elaborar, para ello cada uno de los miembros expusimos nuestras ideas. Tras ello, votamos las ideas y eligimos la idea más votada.</p>
+    <a href="https://miro.com/app/board/uXjVNUnKKi0=/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/cnunez1/gespro-lunes-830/assets/150005496/ac86dd65-ce79-4b18-84af-20a964f5d694" alt="1" width="1000" height="500"/>
+    </a>
+  </div>
+</details>
+
+<details>
   <summary><h2>2️⃣ Segundo paso, definición de funcionalidades del proyecto:</h2></summary>
-  <p>
-   <a href="https://miro.com/app/board/uXjVNUnKKi0=/" target="_blank" rel="noreferrer"> <img src="https://github.com/cnunez1/gespro-lunes-830/assets/150005496/13c65a91-d6e7-4388-aeb7-1ba75e0c423f" alt="2" width="1000" height="700"/> </a>
-  </p>
+  <div>
+    <p>Tras una elección del proyecto, definimos el conjunto de funcionalidades del proyecto. Tras ello, votamos cada una de las funcionalidades propuestas para quedarnos 15 más relevantes.</p>
+    <a href="https://miro.com/app/board/uXjVNUnKKi0=/" target="_blank" rel="noreferrer"> <img src="https://github.com/cnunez1/gespro-lunes-830/assets/150005496/13c65a91-d6e7-4388-aeb7-1ba75e0c423f" alt="2" width="1000" height="700"/> </a>
+  </div>
 </details>
 
 <details> 
   <summary><h2>3️⃣ Tercer paso, historias de usuario:</h2></summary>
-  <h3> Estas imágenes se ponen separadas ya que una con todo no se ve bien </h3>
+  <p>Una vez definido las funcioalidades del proyecto, elaboramos las correspondientes historias de usuario asociadas a cada una de esas funcionalidades. Las siguientes son ejemplos de las historias de usuario elaboradas.</p>
+
   <p>
     <a href="https://miro.com/app/board/uXjVNUnKKi0=/" target="_blank" rel="noreferrer"> 
       <img src="https://github.com/cnunez1/gespro-lunes-830/assets/150005496/e7ebefb5-13b9-497b-8a2e-a4e311de9233" alt="3.1" width="900" height="900"/> 
     </a>
   </p>
+
   <p>
     <a href="https://miro.com/app/board/uXjVNUnKKi0=/" target="_blank" rel="noreferrer"> 
       <img src="https://github.com/cnunez1/gespro-lunes-830/assets/150005496/f9abb4d7-841e-4c75-937b-e9fe90d619b9" alt="3.2" width="800" height="900"/> 
     </a>
   </p>
+
   <p>
     <a href="https://miro.com/app/board/uXjVNUnKKi0=/" target="_blank" rel="noreferrer"> 
       <img src="https://github.com/cnunez1/gespro-lunes-830/assets/150005496/8b3cb50e-2199-4991-bc8c-519606c6276b" alt="3.3" width="800" height="900"/> 
     </a>
   </p>
 </details>
+  
+# Cronograma
+Para representar el cronograma de nuestro proyecto tuvimos que crear los epic correspondientes a cada una de las tareas previamente definidas.
+
+![image](https://github.com/cnunez1/gespro-lunes-830/assets/150005787/d23c7185-d9c1-452b-8cae-613aa69e2b51)
+
 
 # ¿Qué hace el proyecto?
 
@@ -83,5 +98,14 @@ Además, nuestra web tiene tres factores claves que ayudan a que nuestro proyect
 
 6. **Proceso de compra:**
    - Una vez que los productos deseados estén en el carrito, los usuarios pueden proceder al proceso de compra, donde ingresarán la información de envío, seleccionarán el método de pago y finalizarán la transacción.
+
+# ¿Dónde pueden recibir ayuda usuarios con tu proyecto?
+
+Los usuarios pueden recibir ayuda de nuestro proyecto a través de varios canales. En primer lugar, nuestra página web contará con una sección de soporte y de ayuda a los usuarios para abordar consultas comunes sobre tallas, envios y devoluciones. Además, implementará una serie de tutoriales en video que guían a los clientes en los procesos como selección de tallas o el proceso de compra.
+
+# ¿Quién mantiene y contribuye con el proyecto?
+
+Nuestro proyecto de marca de ropa de venta online es mantenido y desarrollado por un equipo comprometido y diverso. En nuestro equipo incluirá expertos en diseños de moda, producción, marketing y, desarrollo de web y aplicaciones. Estos profesionales nos aportan sus habilidades únicas para asegurar que la marca no solo ofrezca productos atractivos y de alta calidad, sino que también tenga una presencia sólida en el mercado digital.
+
 
 
