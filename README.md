@@ -1,6 +1,7 @@
 Daniel Hermelo Puente
 Ignacio Zaldo González 
 Christian Núñez Duque
+Aitor Blanco Fernandez
 
 # Gestión de Proyecto: Simulación una planificación ágil de un proyecto software.
 
