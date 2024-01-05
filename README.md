@@ -18,9 +18,9 @@ Los enlaces correspondientes a los repositorios de Jira y Github son los siguien
 <h1>Sprint 1</h1>
 
 <h2>Creación del nombre --> 27 nov 2023 - 28 nov 2023</h2> 
-<h2>Creación del nombre --> 27 nov 2023 - 28 nov 2023</h2> 
-<h2>Creación del nombre --> 27 nov 2023 - 28 nov 2023</h2> 
-<h2>Creación del nombre --> 27 nov 2023 - 04 dic 2023</h2> 
+<h2>Diseño del logo --> 27 nov 2023 - 28 nov 2023</h2> 
+<h2>Creación/compra del dominio de la web --> 27 nov 2023 - 28 nov 2023</h2> 
+<h2>Creación de la base de datos --> 27 nov 2023 - 04 dic 2023</h2> 
 
 
 
