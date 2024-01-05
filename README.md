@@ -1,5 +1,12 @@
 Ignacio Zaldo González 
 
+<h1>Sprint 1</h1>
+
+<h2>Creación del nombre --> 27 nov 2023 - 28 nov 2023</h2> 
+<h2>Creación del nombre --> 27 nov 2023 - 28 nov 2023</h2> 
+<h2>Creación del nombre --> 27 nov 2023 - 28 nov 2023</h2> 
+<h2>Creación del nombre --> 27 nov 2023 - 04 dic 2023</h2> 
+
 <h1>Pasos realizados hasta el momento</h1>
 
 <details> 
