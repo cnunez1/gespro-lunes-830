@@ -1,11 +1,12 @@
 # Gestión de Proyecto: Simulación una planificación ágil de un proyecto software.
 
-Este repositorio tiene como objetivo la simulación de un proyecto software usando metodologías agiles utilizando herramientas como Github y Jira.
+Este repositorio tiene como objetivo la simulación de un proyecto software usando metodologías agiles utilizando herramientas como Github, Jira y Confluence.
 
 Los enlaces correspondientes a los repositorios de Jira y Github son los siguientes:
 
 - [Github](https://github.com/cnunez1/gespro-lunes-830)
 - [Jira](https://equipogespro.atlassian.net/jira/software/projects/PRAC/boards/2)
+- [Confluence](https://equipogespro.atlassian.net/wiki/x/HYAw)
 
 
 # Autores:
@@ -22,6 +23,11 @@ Los enlaces correspondientes a los repositorios de Jira y Github son los siguien
 <h2>Creación/compra del dominio de la web --> 27 nov 2023 - 28 nov 2023</h2> 
 <h2>Creación de la base de datos --> 27 nov 2023 - 04 dic 2023</h2> 
 
+<h1>Sprint 2</h1>
+<h2>Creación de usuarios --> 04 dic 2023 - 11 dic 2023</h2>
+<h2>Eliminación de usuarios --> 04 dic 2023 - 11 dic 2023</h2>
+<h2>Modificación de usuarios --> 04 dic 2023 - 11 dic 2023</h2>
+<h2>Acceso a los usuarios --> 04 dic 2023 - 11 dic 2023</h2>
 
 
 <h1>Pasos realizados hasta el momento</h1>
@@ -66,7 +72,25 @@ Los enlaces correspondientes a los repositorios de Jira y Github son los siguien
     </a>
   </p>
 </details>
-  
+
+<details>
+  <summary><h2>4️⃣ Simulación de los sprints</h2></summary>
+  <div>
+    <p>Luego de definir las historias de usuario, organizamos el trabajo en diversos sprints que fueron simulados de manera progresiva hasta 
+      lograr la implementación exitosa de todas las historias de usuario propuestas.</p>
+  </div>
+</details>
+
+<details>
+  <summary><h2>5️⃣ Comentarios</h2></summary>
+  <div>
+    <p>A  lo largo del desarrollo del proyecto, discutimos las partes pertinentes del mismo y documentamos 
+      la información clave utilizando herramientas como este mismo README y Confluence.
+    </p>
+  </div>
+</details>
+
+
 # Cronograma
 Para representar el cronograma de nuestro proyecto tuvimos que crear los epic correspondientes a cada una de las tareas previamente definidas.
 
