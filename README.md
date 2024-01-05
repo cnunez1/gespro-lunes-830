@@ -29,6 +29,18 @@ Los enlaces correspondientes a los repositorios de Jira y Github son los siguien
 <h2>Modificación de usuarios --> 04 dic 2023 - 11 dic 2023</h2>
 <h2>Acceso a los usuarios --> 04 dic 2023 - 11 dic 2023</h2>
 
+<h1>Spirnt 3</h1>
+<h2>Creación de la interfaz inicial --> 11 dic 2023 - 18 dic 2023</h2>
+<h2>Medios de contacto  --> 11 dic 2023 - 18 dic 2023</h2>
+<h2>Gestión de idiomas  --> 11 dic 2023 - 18 dic 2023</h2>
+<h2>Sección de ayuda  --> 11 dic 2023 - 18 dic 2023</h2>
+<h2>Asignar la base de datos a la página web  --> 11 dic 2023 - 18 dic 2023</h2>
+
+<h1>Spirnt 4</h1>
+<h2>Gestión de pagos --> 18 dic 2023 - 25 dic 2023</h2>
+<h2>Gestión de devoluciones  --> 18 dic 2023 - 25 dic 2023</h2>
+<h2>Gestión de inventarios  --> 18 dic 2023 - 25 dic 2023</h2>
+<h2>Gestión de envíos  --> 18 dic 2023 - 25 dic 2023</h2>
 
 <h1>Pasos realizados hasta el momento</h1>
 
